@@ -1,7 +1,7 @@
 {
-    "_author": "/u/notadecent, Martijnvdc, Ronald245",
+    "_author": "/u/notadecent, Martijnvdc, Ronald245, Gbert0",
     "_language": "Nederlands",
-    "_comment": "v1.6",
+    "_comment": "v1.7",
     "_ind": 1,
 
     "lf_title": "Tox",
@@ -44,20 +44,20 @@
     "sect4_easy_blurb": "Om Tox te gebruiken hoeft u geen professionele programmeur te zijn. Dankzij Tox's <span class=\"text bold\">gebruiksvriendelijke</span> uiterlijk kunt u zich compleet richten op de conversatie.",
     
     "sect4_freedom": "Vrijheid",
-    "sect4_freedom_blurb": "Tox is gratis te gebruiken en te modificeren, u kunt Tox compleet naar verlangen aanpassen zonder enige extra kosten. Bovendien, <span class=\"text bold\"> zal Tox u nooit advertenties tonen of geld vragen voor extra functies.</span>",
+    "sect4_freedom_blurb": "Tox is gratis te gebruiken en aan te passen, u kunt Tox compleet naar verlangen aanpassen zonder enige extra kosten. Bovendien, <span class=\"text bold\"> zal Tox u nooit advertenties tonen of geld vragen voor extra functies.</span>",
     
     
     "sect5_contribute": "Help mee",
     
-    "sect5_github": "Wilt u meehelpen? Tox staat op <span class=\"text normal color white\">GitHub</span>.\n Geen programmeringservaring is nodig om een contributie te leveren .",
+    "sect5_github": "Wilt u meehelpen? Tox staat op <span class=\"text normal color white\">GitHub</span>.\n Geen programmeringservaring is nodig om mee te helpen.",
     "sect5_sourceongithub": "Source op GitHub",
     
     "sect6_freesoftware": "Gratis software",
-    "sect6_developers": "Wij zijn programmeurs <span class=\"text normal\">van over de hele wereld</span>.",
+    "sect6_developers": "Wij zijn mensen <span class=\"text normal\">van over de hele wereld</span>.",
     
     "sect6_jointheteam": "Doe mee",
     "sect6_joinongithub": "Help Tox meebouwen op <a href=\"https://github.com/irungentoo/ProjectTox-Core\" class=\"text bold underline color theme\">GitHub</a>.",
     
     "sect6_needhelp": "Hulp nodig?",
-    "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span>, GitHub of op <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
+    "sect6_githubtoirc": "Start uw eigen project en praat mee op <span class=\"text normal\">GitHub</span> of <a href=\"ircs://irc.freenode.net/InsertProjectNameHere\" class=\"text bold underline color theme\">IRC</a>!"
 }
